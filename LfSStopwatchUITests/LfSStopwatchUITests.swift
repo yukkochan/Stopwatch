@@ -2,7 +2,7 @@
 //  LfSStopwatchUITests.swift
 //  LfSStopwatchUITests
 //
-//  Created by Yukiko Kida on 2018/02/12.
+//  Created by Yukiko Kida on 2018/02/10.
 //  Copyright © 2018年 Yukiko. All rights reserved.
 //
 
